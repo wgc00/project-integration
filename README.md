@@ -31,8 +31,12 @@
 
 - 其次，自己可以把项目克隆下来，进行代码的修改了  
 - 当我们项目提交项目时，就安装上述提交时的步骤  
-- 最后，如果我们要把自己的merge——demo项目整合到nf147用户的merge_demo项目中，  
-- 在自己的merge_demo项目中单击New pull request按钮就可以了  
+- 最后，如果我们要把自己的 merge——demo 项目整合到 nf147 用户的 merge_demo 项目中，  
+- 在自己的merge_demo项目中单击 New pull request 按钮就可以了  
 
 
 ![request](img/request.png)  
+
+## 注意事项
+1、如果在 git push 提交时会错，错误说明是两个人的提交内容大部分一致，GitHub无法解决，那就只能我们自己手动的去修改
+它标记>>>>>>、<<<<等符号的内容
